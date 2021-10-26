@@ -22,3 +22,12 @@ You get the value of PI (3.142) on the screen. If the value of PI is 3.142 or ap
 
 The above program gives pi value = 3.142 for the greater samples (1000 or 2000).
 
+
+=================
+
+**Name: Sneha M R**
+
+**Roll Number: CS21M522**
+
+**Registered Mail ID: sneha.maganahalli@gmail.com**
+
