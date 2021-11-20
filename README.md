@@ -29,5 +29,3 @@ The above program gives pi value = 3.142 for the greater samples (1000 or 2000).
 
 **Roll Number: CS21M522**
 
-**Registered Mail ID: sneha.maganahalli@gmail.com**
-
